@@ -1,4 +1,8 @@
+// key
 const KEY = { KEY_1: 'MCtIgMcUvxfhiQ9leBcJfg==gZrxzgukZKiHQlBt' }
+
+
+
 const END_POINT_API = { END_POINT: 'https://api.api-ninjas.com/v1/imagetotext' }
 const RULE_INPUT_TOOL = `Tuân thủ các điều kiện sau 
 - Chữ cái trước số 
